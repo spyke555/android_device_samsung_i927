@@ -2,15 +2,15 @@ Samsung Captivate Glide (SGH-I927) device tree for CyanogenMod-10.1 JellyBean
 
 -------------------
 
-This work is based on The-Covenant i927 device tree:
+This work is based on The-Covenant device tree for the Samsung Captivate Glide (SGH-I927) maintained by dman3285 and thegreatergood:
 
-	https://github.com/The-Covenant/android_device_sansung_i927.git
+	https://github.com/The-Covenant/android_device_samsung_i927
 
-Also leveraged some material from the Cyanogenmod device tree for the Samsung Galaxy S (SGH-I9103) (maintained by Adam77Root) which shares the same Nvidia SoC:
+Also leveraged some material from the Cyanogenmod device tree for the Samsung Galaxy S (SGH-I9103) maintained by Adam77Root which shares the same Nvidia SoC:
 
 	https://github.com/CyanogenMod/android_device_samsung_i9103
 
-Plus some tweaks and suggestions privided by the members of the xda-developers frum community:
+Plus tweaks and suggestions provided by the members of the xda-developers forum community:
 
 	http://forum.xda-developers.com/forumdisplay.php?f=1487
 
