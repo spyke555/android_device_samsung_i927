@@ -237,9 +237,6 @@ on boot
   chmod 0664 /sys/class/sec/gps/GPS_nRST/value
   chown root system /sys/class/sec/gps/GPS_nRST/value
 
-# Start FM Radio Driver
-    insmod /lib/modules/Si4709_driver.ko
-
 # Vibetonz
     chmod 0660 /dev/tspdrv
     chown root shell /dev/tspdrv

@@ -57,8 +57,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/prebuilt/dhd.ko:root/lib/modules/dhd.ko \
     $(LOCAL_PATH)/prebuilt/scsi_wait_scan.ko:root/lib/modules/scsi_wait_scan.ko \
     $(LOCAL_PATH)/prebuilt/modules.dep:root/lib/modules/modules.dep \
-    $(LOCAL_PATH)/prebuilt/cbd:root/sbin/cbd \
-    $(LOCAL_PATH)/prebuilt/Si4709_driver.ko:root/lib/modules/Si4709_driver.ko 
+    $(LOCAL_PATH)/prebuilt/cbd:root/sbin/cbd
 
 # Vold and Storage
 PRODUCT_COPY_FILES += \
