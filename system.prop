@@ -94,5 +94,5 @@ persist.sys.usb.config=mtp
 
 # OTA Updater
 otaupdater.otaid=cm-10.1-UNOFFICIAL-SGH-i927-spyke555
-otaupdater.otaver=M3
-otaupdater.otatime=20130503-0037
+otaupdater.otaver=RC1
+otaupdater.otatime=20130525-0010
